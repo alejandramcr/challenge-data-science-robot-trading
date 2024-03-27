@@ -1,2 +1,1 @@
-# challenge-data-science-robot-trading
-Challenge Data Science Robot Trading
+Alura Challenge - Robot Trading
