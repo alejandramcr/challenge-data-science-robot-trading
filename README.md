@@ -1,8 +1,6 @@
 **Alura Challenge - Robot Trading**
 
-Requisitos
-
-Configuración del ambiente: Para empezar, puedes utilizar un entorno virtual como Google Colaboratory, o si deseas, puedes usar el editor Python de tu preferencia, sólo asegúrate de tener Python 3.x instalado en tu computadora. También necesitarás instalar algunas librerías de Python que son esenciales para este proyecto, como Pandas, Numpy, Matplotlib, etc.
+Requisitos: Uso de  Google Colaboratory. Instalación de las librerías de Python como Pandas, Numpy, Matplotlib, etc.
 
 Obtención de datos: Necesitarás acceder a una API que proporcione datos históricos de precios de Bitcoin en formato JSON. Por otro lado, necesitarás realizar Web Scraping en un site de noticias para obtener el precio actual y algunos indicadores de tendencias del Bitcoin.
 
