@@ -1,5 +1,5 @@
 **Alura Challenge - Robot Trading**
-
+![robottrading](https://github.com/alejandramcr/challenge-data-science-robot-trading/assets/44352406/bb9735d8-02dd-4136-980e-a9a2751815ff)
 Requisitos: Uso de  Google Colaboratory. Instalación de las librerías de Python como Pandas, Numpy, Matplotlib, etc.
 
 Obtención de datos: Necesitarás acceder a una API que proporcione datos históricos de precios de Bitcoin en formato JSON. Por otro lado, necesitarás realizar Web Scraping en un site de noticias para obtener el precio actual y algunos indicadores de tendencias del Bitcoin.
